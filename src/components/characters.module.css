@@ -1,0 +1,18 @@
+.characterList {
+    padding: 80px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 10px;
+
+    color: #cacaca;
+}
+.container{
+    display:grid;
+    columns: auto;
+    justify-items: center;
+    grid-gap: 20px;
+    
+}
